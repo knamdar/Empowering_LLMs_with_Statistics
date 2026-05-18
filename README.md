@@ -24,7 +24,7 @@ The tutorial is divided into four main modules, each containing its own code, da
 ### Part 1: Encoder LLM for Classification
 Focuses on feature extraction and baseline classification using Encoder-based LLMs.
 * Extracting robust embeddings (e.g., BioClinical ModernBERT).
-* Dimensionality reduction and visualization (PCA, UMAP).
+* Unified Data Splitting.
 * Establishing machine learning baselines (LightGBM, Random Forest, TF-IDF).
 * Statistical error analysis, subgroup evaluation, and ensemble agreement.
 
