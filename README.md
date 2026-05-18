@@ -64,14 +64,20 @@ The notebooks in this repository are intended to be run in a GPU-accelerated env
 
 ## Citation
 
-If you utilize the B-Point thresholding method or other advanced ROC analytics discussed in this tutorial, please cite:
 
 ```bibtex
-@inproceedings{namdar2024advanced,
-   author = {Khashayar Namdar and Farzad Khalvati},
-   booktitle = {IEEE-EMBS International Conference on Biomedical and Health Informatics},
-   title = {Advanced Receiver Operating Characteristic Curve Analysis to Identify Outliers in Binary Machine Learning Classifications for Precision Medicine},
-   url = {https://openreview.net/forum?id=9VCv8bLKdq},
-   year = {2024}
+@inproceedings{10.1117/12.3084682,
+author = {Khashayar Namdar and Saeidehsadat Mirjalili and Lauren Erdman and Dominik A. Deniffel and Keith Brunt and Leo Anthony Celi},
+title = {{Comparative evaluation of machine learning and large language model pipelines for identifying acute ischemic stroke in radiology reports}},
+volume = {13926},
+booktitle = {Medical Imaging 2026: Computer-Aided Diagnosis},
+editor = {Axel Wism{\"u}ller and Thomas Martin Deserno},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {139261S},
+keywords = {Stroke, NLP, Machine Learning, Large Language Models},
+year = {2026},
+doi = {10.1117/12.3084682},
+URL = {https://doi.org/10.1117/12.3084682}
 }
 ```
