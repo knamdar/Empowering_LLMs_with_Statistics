@@ -1,0 +1,2111 @@
+Id,Prob_Yes,Confidence,Raw_JSON
+1817,6.475947982049266e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1818,2.3823690999334297e-07,1.0,"{
+  ""inference"": ""no"",
+  ""confidence"": 1.0
+}
+
+Explanation:
+The report indicates sin"
+1819,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1820,1.1478768127080351e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1821,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1822,6.475947982049266e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1823,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1824,1.8553910183683314e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1825,8.481104172358075e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1826,2.4300240743279598e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1827,0.017986209962091555,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1828,2.1024334103591293e-07,1.0,"{
+  ""inference"": ""no"",
+  ""confidence"": 1.0
+}
+
+Explanation:
+The provided MRI"
+1829,0.10669059394565118,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1830,2.4300240743279598e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1831,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1832,3.120191139396651e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1833,5.715004470337245e-07,1.0,"{
+  ""inference"": ""no"",
+  ""confidence"": 1.0
+}
+
+Explanation:
+The provided MRI"
+1834,3.535625074174431e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1835,1.8925148246037342e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1836,0.005911068856243796,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1837,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1838,9.931193325870138e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1839,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1840,1.8553910183683314e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1841,0.37754066879814546,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1842,0.0001795279693467774,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1843,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1844,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1845,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1846,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1847,4.006369222920725e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1848,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1849,2.2603242979035742e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1850,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1851,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1852,0.0002034269780552065,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1853,3.7266392841865614e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1854,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1855,4.450850519411503e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1856,0.00012339457598623172,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1857,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1858,0.9992903296008995,0.95,"{
+  ""inference"": ""yes"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1859,6.475947982049266e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1860,0.00033535013046647816,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1861,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1862,0.0005527786369235996,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1863,0.0015011822567369915,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report describes"
+1864,4.5397868702434395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1865,0.029312230751356316,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1866,1.5534977545950118e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1867,0.991422514586288,0.95,"{
+  ""inference"": ""yes"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1868,1.209865683527418e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1869,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1870,1.725782769012759e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation: The provided MRI"
+1871,9.610241549947395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report describes"
+1872,0.8519528019683106,0.95,"{
+  ""inference"": ""yes"",
+  ""confidence"": 0.95
+}
+
+Explanation: The report indicates the"
+1873,3.7266392841865614e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1874,6.475947982049266e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1875,3.9278620026704423e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1876,0.017986209962091555,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1877,3.120191139396651e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1878,6.96225625013837e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1879,4.222833444659923e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1880,0.037326887344129464,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1881,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1882,0.02595735719779685,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1883,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1884,4.450850519411503e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1885,1.5534977545950118e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1886,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1887,1.3709572068578445e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1888,0.32082130082460697,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1889,2.3823690999334297e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1890,1.5534977545950118e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1891,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1892,3.288749065460498e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1893,0.00033535013046647816,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1894,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1895,8.481104172358075e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1896,0.00013982207564732912,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1897,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1898,4.785094494890118e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1899,6.605214485464791e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1900,4.450850519411503e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1901,0.006692850924284856,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1902,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1903,0.8807970779778823,0.95,"{
+  ""inference"": ""yes"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1904,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1905,3.288749065460498e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1906,4.5397868702434395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1907,8.939696304799167e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1908,2.902311985211097e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1909,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1910,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1911,7.889262586245034e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1912,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1913,1.8553910183683314e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1914,0.0001795279693467774,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1915,1.670142184809518e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1916,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1917,0.0009110511944006454,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1918,4.785094494890118e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1919,1.8553910183683314e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1920,9.610241549947395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1921,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1922,0.13296424019782924,0.9,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.9
+}
+
+Explanation:
+The report indicates high"
+1923,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1924,0.0002034269780552065,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1925,2.4300240743279598e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report describes"
+1926,2.144494842091395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1927,3.120191139396651e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1928,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1929,7.734421308928789e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1930,9.931193325870138e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1931,6.96225625013837e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1932,0.0013250224172131609,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1933,8.315280276641321e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1934,8.939696304799167e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1935,0.7310585786300049,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1936,0.22270013882530884,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1937,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1938,3.059022269256247e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1939,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1940,7.484622751061124e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1941,1.8925148246037342e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1942,0.004609572179374208,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1943,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1944,0.0002611903190957194,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1945,0.00010889691002655443,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1946,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1947,4.222833444659923e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1948,1.0677028700441467e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1949,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1950,7.734421308928789e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1951,0.029312230751356316,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1952,4.006369222920725e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1953,1.0677028700441467e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1954,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1955,1.0677028700441467e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1956,0.0021827164453451808,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1957,1.0129990980873921e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1958,2.4300240743279598e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1959,2.902311985211097e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1960,2.902311985211097e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1961,1.3007128466476033e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1962,0.00015843621910252594,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1963,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1964,7.734421308928789e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1965,0.0011695102650555148,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1966,0.0010322310367548194,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1967,2.3823690999334297e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1968,8.939696304799167e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1969,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation: The provided MRI"
+1970,4.5397868702434395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1971,0.0013250224172131609,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1972,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1973,0.5621765008857981,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1974,8.481104172358075e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1975,4.450850519411503e-07,1.0,"{
+  ""inference"": ""no"",
+  ""confidence"": 1.0
+}
+
+Explanation: The report states ""Un"
+1976,1.12535162055095e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1977,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1978,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1979,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1980,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1981,0.00043055708132461493,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1982,3.288749065460498e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1983,8.315280276641321e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1984,1.473898197449493e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1985,2.1024334103591293e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1986,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1987,0.029312230751356316,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report describes"
+1988,2.2603242979035742e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1989,0.012431650853185818,0.9,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.9
+}
+
+Explanation:
+The report mentions """
+1990,1.209865683527418e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+1991,6.605214485464791e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1992,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+1993,4.450850519411503e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1994,3.7266392841865614e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1995,1.1478768127080351e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1996,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1997,1.12535162055095e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+1998,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+1999,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2000,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2001,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+2002,1.670142184809518e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2003,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2004,0.7549149868676283,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report describes"
+2005,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2006,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2007,1.670142184809518e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2008,9.610241549947395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2009,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2010,0.1480471980316895,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2011,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2012,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2013,3.535625074174431e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+2014,8.939696304799167e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2015,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2016,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2017,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2018,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2019,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+2020,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2021,0.004609572179374208,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2022,0.7549149868676283,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2023,5.422218970016178e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2024,4.450850519411503e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2025,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2026,2.2603242979035742e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2027,3.288749065460498e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2028,0.00010889691002655443,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2029,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2030,8.315280276641321e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2031,2.3823690999334297e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2032,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2033,0.012431650853185818,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2034,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2035,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2036,6.144174602214718e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2037,0.9975273768433653,0.95,"{
+  ""inference"": ""yes"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2038,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2039,0.00033535013046647816,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2040,0.9740426428022031,0.9,"{
+  ""inference"": ""yes"",
+  ""confidence"": 0.9
+}
+
+Explanation:
+The report indicates the"
+2041,0.00013982207564732912,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2042,1.3007128466476033e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2043,0.0006263341581094201,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2044,3.059022269256247e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2045,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2046,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2047,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2048,0.0019267346633274755,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+2049,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2050,0.02297736991002561,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2051,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2052,8.939696304799167e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2053,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2054,0.0675466911396291,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2055,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2056,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2057,1.3007128466476033e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2058,0.04208772791561884,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2059,3.288749065460498e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2060,4.006369222920725e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2061,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2062,0.00033535013046647816,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2063,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2064,2.902311985211097e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2065,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2066,0.007577241267860811,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2067,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2068,1.209865683527418e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2069,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2070,1.6373768624904696e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2071,0.13296424019782924,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2072,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2073,0.0013250224172131609,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2074,7.33820980525408e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2075,1.1478768127080351e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2076,2.6995777745908016e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2077,3.535625074174431e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report mentions"
+2078,4.450850519411503e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2079,2.5612822107586734e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2080,0.04208772791561884,0.9,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.9
+}
+
+Explanation:
+The report indicates foc"
+2081,0.017986209962091555,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2082,1.7603432133424858e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2083,1.0677028700441467e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2084,0.000487857122782266,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2085,1.275190428876251e-07,1.0,"{
+  ""inference"": ""no"",
+  ""confidence"": 1.0
+}
+
+Explanation:
+The report does not"
+2086,6.96225625013837e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2087,5.829126566113865e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2088,0.07585818002124356,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2089,6.023573475052082e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2090,4.222833444659923e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2091,0.04208772791561884,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2092,0.37754066879814546,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2093,0.0007096703991005882,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2094,0.5926665999540697,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2095,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2096,2.144494842091395e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2097,3.9278620026704423e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2098,1.275190428876251e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2099,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2100,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2101,1.275190428876251e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2102,8.315280276641321e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2103,0.017986209962091555,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2104,0.000295957113513077,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2105,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2106,8.481104172358075e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2107,7.734421308928789e-08,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2108,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2109,5.829126566113865e-05,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2110,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2111,6.475947982049266e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2112,3.466326211119808e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2113,9.422445939071363e-07,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2114,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2115,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report does"
+2116,1.9947297215270572e-06,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The provided M"
+2117,0.0003799845147518645,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
+2118,0.0002305067219931397,0.95,"{
+  ""inference"": ""no"",
+  ""confidence"": 0.95
+}
+
+Explanation:
+The report indicates"
